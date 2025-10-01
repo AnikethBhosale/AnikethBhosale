@@ -20,7 +20,7 @@ I have a passion for **software development**, and I just love to **build → br
 
 ### 🚦 IoT & ML: Traffic Signal Optimization  
 - Designed ML-powered system with **Raspberry Pi, Flask, and Computer Vision**.  
-- Predicted live traffic from video feeds and enabled **real-time adaptive signal control** via API.  
+- Predicted live traffic from video feeds and enabled **real-time adaptive signal control** via Falsk API.  
 
 ### 🏋️ Computer Vision: Browser-Based Fitness Platform  
 - Delivered **real-time exercise form tracking** using **MediaPipe Pose**.  
