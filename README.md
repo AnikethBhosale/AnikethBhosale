@@ -3,7 +3,7 @@
 💻 **Software Engineer | Python Developer | GenAI & ML Enthusiast | OCI Foundations (1Z0-1085-25)**  
 🧠 *Builder. Problem Solver. Always Learning.*
 
-I’m passionate about **software development and AI-driven systems** — I love to **build, experiment, and iterate**.  
+I’m passionate about **software development and AI-driven systems**, I love to **build, experiment, and iterate**.  
 I’ve been consistently solving problems on **LeetCode** for over a year, and enjoy learning how things work under the hood.  
 
 🌱 Currently focusing on **backend development (Django)** and **practical GenAI/ML integrations**.  
