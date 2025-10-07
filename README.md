@@ -1,72 +1,59 @@
 # 👋 Hi, I'm Aniketh Bhosale  
 
-🚀 **Software Engineer (SWE) | Python Developer | GenAI ML | OCI Foundations (1Z0-1085-25) | Builder - Problem Solver**  
+💻 **Software Engineer | Python Developer | GenAI & ML Enthusiast | OCI Foundations (1Z0-1085-25)**  
+🧠 *Builder. Problem Solver. Always Learning.*
 
-I’m a **LeetCode grinder** with more than **1 year of consistency** [🐍](https://leetcode.com/u/anikethbhosale11/).  
-I have a passion for **software development**, and I just love to **build → break → build again**.  
+I’m passionate about **software development and AI-driven systems** — I love to **build, experiment, and iterate**.  
+I’ve been consistently solving problems on **LeetCode** for over a year, and enjoy learning how things work under the hood.  
 
-💻 I love **Python** for its versatility — I can build almost anything with it.  
-🌱 Currently learning **backend development with Django**.  
+🌱 Currently focusing on **backend development (Django)** and **practical GenAI/ML integrations**.  
 🤝 Open to **open-source contributions** and **internship opportunities**.  
 
 ---
 
-## 🛠️ Projects  
+## 🧩 Featured Projects  
 
-### 📊 Data Engineering: Dockerized Data Pipeline with Dagster  
-- Built a containerized ETL pipeline that ingests real-time stock data (**Alpha Vantage**).  
-- Parsed JSON into structured DataFrames, persisted into **PostgreSQL** with conflict-safe UPSERTs.  
-- Monitored with **Dagster UI**, retries, and logging for reliability.  
+### 📊 **Dockerized Data Pipeline (Dagster + PostgreSQL)**  
+- Built a **containerized ETL pipeline** that ingests real-time stock data (Alpha Vantage).  
+- Parsed JSON into DataFrames and persisted to **PostgreSQL** using conflict-safe UPSERTs.  
+- Enabled robust monitoring with **Dagster UI**, retries, and structured logging.  
 
-### 🚦 IoT & ML: Traffic Signal Optimization  
-- Designed ML-powered system with **Raspberry Pi, Flask, and Computer Vision**.  
-- Predicted live traffic from video feeds and enabled **real-time adaptive signal control** via Falsk API.  
+### 🚦 **Traffic Signal Optimization (IoT + ML)**  
+- Developed an **ML-powered adaptive traffic system** using **Raspberry Pi, Flask, and Computer Vision**.  
+- Processed live camera feeds and optimized signal timing dynamically.  
 
-### 🏋️ Computer Vision: Browser-Based Fitness Platform  
-- Delivered **real-time exercise form tracking** using **MediaPipe Pose**.  
-- Computed joint angles, detected state transitions, and updated a **responsive UI** for motivation.  
+### 🏋️ **Browser-Based Fitness Tracker (Computer Vision)**  
+- Implemented **real-time form correction** using **MediaPipe Pose**.  
+- Calculated joint angles, detected rep transitions, and updated a responsive UI for motivation.  
 
-### 🤖 Agentic AI: Multilingual Loan Advisory Chatbot  
-- Built a **Sarvam/OpenAI-powered bot** with Retrieval-Augmented Generation (RAG).  
-- Parsed user data for **personalised, context-aware financial guidance** in multiple languages.  
-
----
-
-## 🎓 Certifications & Extra-Curricular  
-
-- **Certifications**:  
-  - Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)  
-  - Google Cloud Computing Foundations Certificate  
-  - Networking Basics (Cisco)  
-  - AI For Everyone (DeepLearning.AI)  
-  - Introduction to Generative AI (Google Cloud)  
-
-- **Clubs & Leadership**:  
-  - Developer at **Dev/Track Club**  
-  - Technical Lead at **DevBraze Club**  
-
-- **Hackathons**:  
-  - The Great Bengaluru Hackathon  
-  - HACCVERSE’25  
-  - GAME FORGE  
-  - **8th Place at TechFusion Hackathon** (Consolation Prize)  
+### 🤖 **Multilingual Loan Advisory Chatbot (RAG + GenAI)**  
+- Created a **Sarvam/OpenAI-powered chatbot** using Retrieval-Augmented Generation (RAG).  
+- Delivered **personalized, context-aware financial guidance** in multiple languages.  
 
 ---
 
-✨ *“Always building, always learning.”*  
+## 🎓 Certifications & Achievements  
 
-## 🌐 Socials
+**Certifications**  
+- Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)  
+- Google Cloud Computing Foundations Certificate  
+- Networking Basics (Cisco)  
+- AI For Everyone (DeepLearning.AI)  
+- Introduction to Generative AI (Google Cloud)  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/anikethbhosale11/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-bhosale-849480250/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniketh_bhosale)
+**Hackathons**  
+- The Great Bengaluru Hackathon  
+- HACCVERSE’25  
+- GAME FORGE  
+- 🏅 *8th Place — TechFusion Hackathon (Consolation Prize)*  
 
-<a href="https://leetcode.com/anikethbhosale11/ ">
-<img src="https://leetcard.jacoblin.cool/anikethbhosale11?theme=dark " alt="LeetCode Stats" width="400" />
-</a>
+**Clubs & Leadership**  
+- 🧑‍💻 Developer at **Dev/Track Club**  
+- 🧭 Technical Lead at **DevBraze Club**  
 
+---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -86,10 +73,10 @@ I have a passion for **software development**, and I just love to **build → br
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -101,12 +88,26 @@ I have a passion for **software development**, and I just love to **build → br
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnikethBhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnikethBhosale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikethBhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 🌐 Socials  
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/anikethbhosale11/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-bhosale-849480250/)  
+
+<a href="https://leetcode.com/anikethbhosale11/">
+<img src="https://leetcard.jacoblin.cool/anikethbhosale11?theme=dark" alt="LeetCode Stats" width="400" />
+</a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnikethBhosale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=AnikethBhosale&theme=dark&hide_border=false&count_private=false&show_icons=true&include_all_commits=false&line_height=24)  
+![](https://nirzak-streak-stats.vercel.app/?user=AnikethBhosale&theme=dark&hide_border=false)
+
+---
+
+✨ *“Always building, always learning.”*  
+
+[![](https://visitcount.itsvg.in/api?id=AnikethBhosale&icon=0&color=0)](https://visitcount.itsvg.in)
