@@ -102,8 +102,8 @@ I’ve been consistently solving problems on **LeetCode** for over a year, and e
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=AnikethBhosale&theme=dark&hide_border=false&count_private=false&show_icons=true&include_all_commits=false&line_height=24)  
-![](https://nirzak-streak-stats.vercel.app/?user=AnikethBhosale&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AnikethBhosale&theme=dark&hide_border=false&count_private=false&show_icons=true&include_all_commits=false&line_height=24)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnikethBhosale&theme=dark&hide_border=false)
 
 ---
 
